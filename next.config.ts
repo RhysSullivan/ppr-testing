@@ -1,5 +1,5 @@
 import type { NextConfig } from "next";
-
+//bump
 const nextConfig: NextConfig = {
   experimental: {
     ppr: false,
